@@ -27,7 +27,7 @@ A simple AI-powered system that evaluates how well a student profile matches an 
 - AI does not fabricate skills
 
 ## Live Demo
-https://internaimatchertanishgarge22cseu0066.streamlit.app/
+https://internaimatchertanishgarge22cseu0066.streamlit.app
 
 ## Author
 - Name: Tanish Garg
