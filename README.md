@@ -27,11 +27,11 @@ A simple AI-powered system that evaluates how well a student profile matches an 
 - AI does not fabricate skills
 
 ## Live Demo
-[Add your Streamlit Cloud URL here]
+https://internaimatchertanishgarge22cseu0066.streamlit.app/
 
 ## Author
-Name: Tanish Garg
-Enrollment: E22CSEU0066
-Batch: 2026
-University: Bennett University
-Role Applied: AI Engineering Intern
+- Name: Tanish Garg
+- Enrollment: E22CSEU0066
+- Batch: 2026
+- University: Bennett University
+- Role Applied: AI Engineering Intern
